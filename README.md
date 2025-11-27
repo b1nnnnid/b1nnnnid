@@ -5,7 +5,6 @@
 ###  :wave: Welcome !
   
  <br/>
- <br/>
   
 ##  :clipboard: Once I've Used 
   
@@ -23,11 +22,16 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">
 <img src="https://img.shields.io/badge/Matplotlib-003D6E?style=for-the-badge&logo=Matplotlib&logoColor=white">
 <img src="https://img.shields.io/badge/Seaborn-3C9C6F?style=for-the-badge&logo=Seaborn&logoColor=white">
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=Scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=Scikit-learn&logoColor=white"><br>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"><br><br><br><br>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=Gunicorn&logoColor=white">
+<img src="https://img.shields.io/badge/Requests-179C99?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Beautiful_Soup-4078C0?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/Pillow-4078C0?style=for-the-badge&logo=Python&logoColor=white"><br><br><br><br>
 
 <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
@@ -58,7 +62,7 @@
 <img src="https://img.shields.io/badge/SQLD-336791?style=for-the-badge&logo=SQLite&logoColor=white">
 <img src="https://img.shields.io/badge/ADsP-43A047?style=for-the-badge&logo=Databricks&logoColor=white">
 <img src="https://img.shields.io/badge/Linux_Master_2급-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
-<img src="https://img.shields.io/badge/TOPA_1급(인공지능_실무_고급)-FF6600?style=for-the-badge&logo=Intel&logoColor=white">
+<img src="https://img.shields.io/badge/TOPA_1급(인공지능_실무_고급)-FF6600?style=for-the-badge&logo=A_Frame&logoColor=white">
 <img src="https://img.shields.io/badge/한국사능력검정_1급-795548?style=for-the-badge&logo=A_Frame&logoColor=white"><br><br><br>
 
 ## 💡 Activities
