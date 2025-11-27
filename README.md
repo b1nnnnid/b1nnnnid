@@ -52,7 +52,31 @@
    <br/>
    <br/>
    <br/>
- 
+
+
+ ## 💡Certifications
+<img src="https://img.shields.io/badge/SQLD-336791?style=for-the-badge&logo=SQLite&logoColor=white">
+<img src="https://img.shields.io/badge/ADsP-43A047?style=for-the-badge&logo=Databricks&logoColor=white">
+<img src="https://img.shields.io/badge/Linux_Master_2급-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
+<img src="https://img.shields.io/badge/TOPA_1급(인공지능_실무_고급)-FF6600?style=for-the-badge&logo=Intel&logoColor=white">
+<img src="https://img.shields.io/badge/한국사능력검정_1급-795548?style=for-the-badge&logo=A_Frame&logoColor=white"><br><br><br>
+
+## 💡 Activities
+ **Codeit Boost 1기 (2024.04 ~ 2024.09)**<Br>
+     <small>코드잇 부스트 1기 러너(백엔드) 수료</small><Br>
+     <small>스터디 팀장, 세미나 우수 스피커, 백엔드 MVP 수상, 조각집 프로젝트</small><Br>
+     Primary Language: JavaScript<br><br>
+ **네이버클라우드 인공지능(AI) 전문인력 양성과정(2024.10 ~ 2024.12)**<br>
+     <small>데이터 분석 및 시각화, 머신러닝/딥러닝 모델링, AI 파이썬 프로젝트 발표</small><Br>
+     <small>TOPA 1급 자격 취득: (주)엘리스그룹 x 한국표준협회 주최, 인공지능 실무 고급</small><Br>
+     <small>Primary Language: Python</small><Br><BR>
+ **멋쟁이사자처럼 13기 (2025.03 ~ 2025.12 )**<br>
+    <small>13기 아기사자(백엔드) 수료</small><Br>
+    <small>아이디어톤 교내 대상</small><Br>
+    <small>여기톤(HERETONE), 중앙 해커톤, 클론 코딩 프로젝트, 마무리 프로젝트 참여</small><Br>
+    <small>Primary Language: Python, JavaScript</small><br><br>
+ **멋쟁이사자처럼 14기 (2026.01 ~ ing)**<br>
+   <small>14기 운영진: 백엔드 교육부</small><br><br><br>
 ## :floppy_disk: Plus
  
   <br/>
