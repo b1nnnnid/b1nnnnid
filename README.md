@@ -78,7 +78,7 @@
     <small>13기 아기사자(백엔드) 수료</small><Br>
     <small>아이디어톤 교내 대상</small><Br>
     <small>여기톤(HERETONE), 중앙 해커톤, 클론 코딩 프로젝트, 마무리 프로젝트 참여</small><Br>
-    <small>Primary Language: Python, JavaScript</small><br><br>
+    <small>Primary Language: Python, Java</small><br><br>
  **멋쟁이사자처럼 14기 (2026.01 ~ ing)**<br>
    <small>14기 운영진: 백엔드 교육부</small><br><br><br>
 ## :floppy_disk: Plus
