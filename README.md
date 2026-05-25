@@ -98,7 +98,6 @@
 
 ## 📊 GitHub Stats
 
-[![b1nnnnid's GitHub stats](https://github-readme-stats.vercel.app/api?username=b1nnnnid&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true)](https://github.com/b1nnnnid)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b1nnnnid&layout=compact&theme=dracula&hide_border=true)](https://github.com/b1nnnnid)
+![b1nnnnid's GitHub stats](https://github-readme-stats.vercel.app/api?username=b1nnnnid&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 </div>
