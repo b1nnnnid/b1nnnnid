@@ -99,7 +99,7 @@
 
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=b1nnnnid&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true)](https://github.com/b1nnnnid)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=b1nnnnid&layout=compact&theme=dracula&hide_border=true)](https://github.com/b1nnnnid)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=b1nnnnid&layout=compact&theme=dracula&hide_border=true&hide=jupyter+notebook&include_all_commits=true&count_private=true)](https://github.com/b1nnnnid)
 
 [![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=b1nnnnid&theme=dracula&hide_border=true)](https://github.com/b1nnnnid)
 
