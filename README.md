@@ -77,7 +77,6 @@
 <img src="https://img.shields.io/badge/ADsP-43A047?style=for-the-badge&logo=Databricks&logoColor=white">
 <img src="https://img.shields.io/badge/Linux_Master_2급-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
 <img src="https://img.shields.io/badge/TOPA_1급_인공지능_실무_고급-FF6600?style=for-the-badge&logo=AFrame&logoColor=white">
-<img src="https://img.shields.io/badge/한국사능력검정_1급-795548?style=for-the-badge&logo=AFrame&logoColor=white">
 
 <br/><br/>
 
@@ -100,5 +99,6 @@
 
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=b1nnnnid&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true)](https://github.com/b1nnnnid)
 
+[![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=b1nnnnid&theme=dracula&hide_border=true)](https://github.com/b1nnnnid)
 
 </div>
