@@ -77,6 +77,7 @@
 <img src="https://img.shields.io/badge/ADsP-43A047?style=for-the-badge&logo=Databricks&logoColor=white">
 <img src="https://img.shields.io/badge/Linux_Master_2급-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
 <img src="https://img.shields.io/badge/TOPA_1급_인공지능_실무_고급-FF6600?style=for-the-badge&logo=AFrame&logoColor=white">
+<img src="https://img.shields.io/badge/정보처리기사-FF1100?style=for-the-badge&logo=AFrame&logoColor=Blue">
 
 <br/><br/>
 
